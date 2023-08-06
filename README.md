@@ -1,2 +1,1 @@
-# cityquiz-bugs-feature-requests
-Bugs and feature requests for cityquiz.io
+This repository is for bugs and feature requests for [CityQuiz](https://cityquiz.io), the geography quiz website. If you have a bug to report, or a feature that you would like to see on the website, head over to the [Issues](https://github.com/iafisher/cityquiz-bugs-feature-requests/issues) tab. Make sure to check that the issue hasn't already been reported first!
