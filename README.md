@@ -1,6 +1,6 @@
 This repository is for requests for new features and data on [CityQuiz](https://cityquiz.io), the geography quiz website.
 
-**Site roadmap** can be viewed [here](https://github.com/users/iafisher/projects/2/views/1).
+**Site roadmap** can be viewed [here](https://github.com/users/iafisher/projects/2).
 
 **Current feature requests and planned data updates** can be viewed [here](https://github.com/iafisher/cityquiz-bugs-feature-requests/issues).
 
